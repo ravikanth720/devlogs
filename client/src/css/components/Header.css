@@ -1,0 +1,29 @@
+.Header {
+  font-family: 'Ubuntu', sans-serif;
+}
+.Header-title {
+  font-size: 2em;
+  display: inline-block;
+  margin: 10px;
+}
+.Header-subtitle {
+  font-size: 0.75em;
+  color: gray;
+}
+.Header-bar {
+  background-color: #222;
+  color: white;
+  text-align: left;
+}
+.logo {
+  display: inline-block;
+  /*animation: logo-spin infinite 20s linear;*/
+  height: 40px;
+  margin-bottom: 10px;
+}
+
+
+@keyframes logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}

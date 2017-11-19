@@ -1,0 +1,14 @@
+{
+  "name": "nodeapp",
+  "version": "1.0.0",
+  "description": "simple express app to learn the hooks to rethink and react",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "ravi",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
